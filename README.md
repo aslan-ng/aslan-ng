@@ -1,4 +1,4 @@
-
+Passionate about crafting software for scientists, transforming ideas into shareable, collaborative code.
 
 <!--
 ## Hi there 👋
