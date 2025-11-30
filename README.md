@@ -1,4 +1,4 @@
-Passionate about crafting software for scientists, transforming ideas into shareable, collaborative code.
+Passionate about crafting software for scientists, and transforming ideas into shareable, collaborative code.
 
 Some of my contributions to the open source software community:
 [![JOSS Publications](https://img.shields.io/badge/JOSS%20Publications-1-blue)](https://joss.theoj.org/papers/search?q=Aslan+Noorghasemi)
