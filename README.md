@@ -1,7 +1,7 @@
 Passionate about crafting software for scientists, transforming ideas into shareable, collaborative code.
 
 Some of my contributions to the open source software community:
-[![JOSS Publications](https://img.shields.io/badge/JOSS%20Publications-2-blue?logo=readthedocs&logoColor=white)](https://joss.theoj.org/papers/search?q=Aslan+Noorghasemi)
+[![JOSS Publications](https://img.shields.io/badge/JOSS%20Publications-2-blue)](https://joss.theoj.org/papers/search?q=Aslan+Noorghasemi)
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@aslan-ng)](https://joss.theoj.org/papers/reviewed_by/@aslan-ng)
 
 
