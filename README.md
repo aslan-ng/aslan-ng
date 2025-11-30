@@ -1,7 +1,10 @@
 Passionate about crafting software for scientists, transforming ideas into shareable, collaborative code.
 
 [![JOSS Publications](https://img.shields.io/badge/JOSS%20Publications-View-blue?logo=readthedocs&logoColor=white)](https://joss.theoj.org/papers/search?q=Aslan+Noorghasemi)
+
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@aslan-ng)](https://joss.theoj.org/papers/reviewed_by/@aslan-ng)
+
+
 <!--
 ## Hi there 👋
 **aslan-ng/aslan-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
