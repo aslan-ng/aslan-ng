@@ -4,7 +4,8 @@ Some of my contributions to the open source software community:
 [![JOSS Publications](https://img.shields.io/badge/JOSS%20Publications-1-blue)](https://joss.theoj.org/papers/search?q=Aslan+Noorghasemi)
 [![JOSS Reviews](https://joss.theoj.org/badges/reviewed_by/@aslan-ng)](https://joss.theoj.org/papers/reviewed_by/@aslan-ng)
 
-Visit my [![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-earth&logoColor=white)](https://aslan-ng.com)
+Contact me:
+[![Website](https://img.shields.io/badge/Website-Visit-blue?logo=google-earth&logoColor=white)](https://aslan-ng.com)
 
 
 <!--
